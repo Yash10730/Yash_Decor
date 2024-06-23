@@ -6,7 +6,7 @@
  * Forked from Normalize.css, licensed MIT (https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
  */
 *,
-*::before,
+*::before, 
 *::after {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
